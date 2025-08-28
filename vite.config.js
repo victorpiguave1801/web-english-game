@@ -12,4 +12,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url)),
     },
   },
+  base: 'https://victorpiguave1801.github.io/web-english-game',
 })
